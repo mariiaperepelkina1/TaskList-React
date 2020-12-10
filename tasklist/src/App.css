@@ -1,0 +1,9 @@
+
+.wrapper {
+  padding: 20px;
+  margin: 0 auto; 
+  width: 600px; 
+  background-color: pink;
+  box-shadow: 4px 4px 3px #ccc;
+}
+
